@@ -1,6 +1,6 @@
 ### Jo sun 👋
 
-☝🏼 That's Cantonese.
+☝🏼 This is "Good morning" in Cantonese.
 
 I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at [<img src="./kaios.svg" title="KaiOS" width="20" height="20">](https://www.kaiostech.com/).
 
