@@ -1,4 +1,18 @@
-### Hi there 👋
+### Jo sun 👋
+
+☝🏼 That's Cantonese.
+
+I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at KaiOS.
+
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/yumanfai/yumanfai/master/linkedin.svg (LinkedIn icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/yuwayne/
 
 <!--
 **yumanfai/yumanfai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
