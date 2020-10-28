@@ -2,9 +2,9 @@
 
 ☝🏼 That's Cantonese.
 
-I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at [<img src="./kaios.svg" width="20" height="20">](https://www.kaiostech.com/) KaiOS.
+I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at [<img src="./kaios.svg" title="KaiOS" width="20" height="20">](https://www.kaiostech.com/).
 
-You can find me on [<img src="./linkedin.svg" width="20" height="20">](https://www.linkedin.com/in/yuwayne/).
+You can find me on [<img src="./linkedin.svg" title="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/yuwayne/).
 
 <!--
 **yumanfai/yumanfai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
