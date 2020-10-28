@@ -4,16 +4,7 @@
 
 I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at [![KaiOS][2.2]] KaiOS.
 
-You can find me on [![LinkedIn][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: https://raw.githubusercontent.com/yumanfai/yumanfai/master/linkedin_icon.png (LinkedIn icon)
-[2.2]: https://raw.githubusercontent.com/yumanfai/yumanfai/master/kaios_icon.png (KaiOS icon)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/yuwayne/
+You can find me on <img src="./linkedin.svg" width="20" height="20" href='https://www.linkedin.com/in/yuwayne/'>.
 
 <!--
 **yumanfai/yumanfai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
