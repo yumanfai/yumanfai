@@ -1,7 +1,9 @@
 ### Jo sun 👋
 
 ☝🏼 That's Cantonese.
+
 I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at KaiOS.
+
 You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
