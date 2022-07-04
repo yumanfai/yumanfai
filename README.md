@@ -2,7 +2,7 @@
 
 ☝🏼 This is "Good morning" in Cantonese.
 
-I'm Wayne and I'm a Data Scientist. I'm from Hong Kong and currently working at [<img src="./kaios.svg" title="KaiOS" width="20" height="20">](https://www.kaiostech.com/).
+I'm Wayne. I'm from Hong Kong and currently the Data Lead at [hi](https://www.hi.com/).
 
 You can find me on [<img src="./linkedin.svg" title="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/yuwayne/).
 
